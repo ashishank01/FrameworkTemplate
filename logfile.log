@@ -1,0 +1,369 @@
+2017-05-07 13:25:11,384 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 13:25:11,384 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:25:11,384 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:25:11,384 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 13:25:11,384 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:25:11,385 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:25:11,393 INFO  [Log] Opening Browser 
+2017-05-07 13:25:30,908 INFO  [Log] Mozilla browser started 
+2017-05-07 13:25:31,051 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:25:31,755 INFO  [Log] Navigating to URL 
+2017-05-07 13:27:00,170 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:27:00,343 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 13:27:00,432 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 13:27:01,474 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:27:03,578 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:27:03,726 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-07 13:27:03,776 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(3,1) 
+2017-05-07 13:27:03,795 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:27:04,418 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:27:04,552 INFO  [Log] Clicking on Webelement Btn_Login 
+2017-05-07 13:27:04,581 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(4,1) 
+2017-05-07 13:27:04,600 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:27:06,992 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:27:07,240 INFO  [Log] Selecting 4389 from dropdown 
+2017-05-07 13:27:07,289 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(5,1) 
+2017-05-07 13:55:12,855 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 13:55:12,856 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:55:12,856 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:55:12,856 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 13:55:12,856 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:55:12,856 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:55:12,863 INFO  [Log] Opening Browser 
+2017-05-07 13:55:29,916 INFO  [Log] Mozilla browser started 
+2017-05-07 13:55:30,131 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:55:30,634 INFO  [Log] Navigating to URL 
+2017-05-07 13:55:38,249 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:55:38,812 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 13:55:38,884 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 13:56:56,289 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 13:56:56,290 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:56:56,290 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:56:56,290 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 13:56:56,290 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:56:56,291 INFO  [Log] **************************************************************************************** 
+2017-05-07 13:56:56,300 INFO  [Log] Opening Browser 
+2017-05-07 13:57:14,913 INFO  [Log] Mozilla browser started 
+2017-05-07 13:57:15,062 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:57:15,518 INFO  [Log] Navigating to URL 
+2017-05-07 13:58:56,174 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:58:56,312 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 13:58:56,355 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 13:58:57,224 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:00,239 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:00,591 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-07 13:59:00,618 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(3,1) 
+2017-05-07 13:59:00,634 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:01,452 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:02,008 INFO  [Log] Clicking on Webelement Btn_Login 
+2017-05-07 13:59:02,039 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(4,1) 
+2017-05-07 13:59:02,054 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:07,707 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:07,838 INFO  [Log] Selecting 4389 from dropdown 
+2017-05-07 13:59:07,950 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(5,1) 
+2017-05-07 13:59:13,424 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:14,803 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:14,930 INFO  [Log] Selecting 29 from dropdown 
+2017-05-07 13:59:15,091 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(6,1) 
+2017-05-07 13:59:15,114 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:16,070 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:16,456 INFO  [Log] Clicking on Webelement btn_save 
+2017-05-07 13:59:16,607 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(7,1) 
+2017-05-07 13:59:16,624 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 13:59:17,198 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:17,363 INFO  [Log] Wait for 10 seconds 
+2017-05-07 13:59:28,404 INFO  [Log] Capturing ScreenShot 
+2017-05-07 13:59:29,563 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 13:59:29,564 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 13:59:29,564 INFO  [Log] X 
+2017-05-07 13:59:29,564 INFO  [Log] X 
+2017-05-07 13:59:29,564 INFO  [Log] X 
+2017-05-07 13:59:29,564 INFO  [Log] X 
+2017-05-07 14:13:09,796 INFO  [Log] Class ActionKeywords | Method findElement | CSS is Null so Skiping Find Element with CSS 
+2017-05-07 14:13:09,797 INFO  [Log] Class ActionKeywords | Method findElement | id is Null so Skiping Find Element with id 
+2017-05-07 14:13:09,797 INFO  [Log] Class ActionKeywords | Method findElement | name is Null so Skiping Find Element with name 
+2017-05-07 14:13:09,798 INFO  [Log] Class ActionKeywords | Method findElement | className is Null so Skiping Find Element with className 
+2017-05-07 14:13:09,798 INFO  [Log] Class ActionKeywords | Method findElement |  unable to find the element with all the given property check object name specified in Excel or its given properties 
+2017-05-07 14:13:09,798 ERROR [Log] Not able to select value from drop down --- null 
+2017-05-07 14:13:10,821 ERROR [Log] Unable to execute the action:dropdownSelectionPlease see the error message--null 
+2017-05-07 14:13:10,821 INFO  [Log] Selecting 29 from dropdown 
+2017-05-07 14:13:10,894 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(6,1) 
+2017-05-07 14:13:11,897 INFO  [Log] Class ActionKeywords | Method findElement | CSS is Null so Skiping Find Element with CSS 
+2017-05-07 14:13:11,897 INFO  [Log] Class ActionKeywords | Method findElement | id is Null so Skiping Find Element with id 
+2017-05-07 14:13:11,898 INFO  [Log] Class ActionKeywords | Method findElement | name is Null so Skiping Find Element with name 
+2017-05-07 14:13:11,898 INFO  [Log] Class ActionKeywords | Method findElement | className is Null so Skiping Find Element with className 
+2017-05-07 14:13:11,898 INFO  [Log] Class ActionKeywords | Method findElement |  unable to find the element with all the given property check object name specified in Excel or its given properties 
+2017-05-07 14:13:11,898 ERROR [Log] Not able to select value from drop down --- null 
+2017-05-07 14:13:12,900 ERROR [Log] Unable to execute the action:dropdownSelectionPlease see the error message--null 
+2017-05-07 14:13:12,901 INFO  [Log] Clicking on Webelement btn_save 
+2017-05-07 14:13:12,953 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(7,1) 
+2017-05-07 14:13:13,956 INFO  [Log] Class ActionKeywords | Method findElement | CSS is Null so Skiping Find Element with CSS 
+2017-05-07 14:13:13,956 INFO  [Log] Class ActionKeywords | Method findElement | id is Null so Skiping Find Element with id 
+2017-05-07 14:13:13,956 INFO  [Log] Class ActionKeywords | Method findElement | name is Null so Skiping Find Element with name 
+2017-05-07 14:13:13,956 INFO  [Log] Class ActionKeywords | Method findElement | className is Null so Skiping Find Element with className 
+2017-05-07 14:13:13,956 INFO  [Log] Class ActionKeywords | Method findElement |  unable to find the element with all the given property check object name specified in Excel or its given properties 
+2017-05-07 14:13:13,957 ERROR [Log] Not able to click --- null 
+2017-05-07 14:13:14,968 ERROR [Log] Unable to execute the action:clickPlease see the error message--null 
+2017-05-07 14:13:14,969 INFO  [Log] Wait for 10 seconds 
+2017-05-07 14:13:26,001 ERROR [Log] Not able to Wait --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=30.0, platform=WINDOWS, browserConnectionEnabled=true, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2ff88323-ac97-4751-befe-303505ecea0d 
+2017-05-07 14:13:27,003 ERROR [Log] Unable to execute the action:waitForPlease see the error message--null 
+2017-05-07 14:13:30,082 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 14:13:30,084 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 14:13:30,084 INFO  [Log] X 
+2017-05-07 14:13:30,084 INFO  [Log] X 
+2017-05-07 14:13:30,085 INFO  [Log] X 
+2017-05-07 14:13:30,085 INFO  [Log] X 
+2017-05-07 14:23:29,872 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 14:23:29,873 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:23:29,873 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:23:29,873 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 14:23:29,873 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:23:29,873 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:23:29,922 INFO  [Log] Opening Browser 
+2017-05-07 14:23:42,570 INFO  [Log] Mozilla browser started 
+2017-05-07 14:23:42,710 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:23:43,054 INFO  [Log] Navigating to URL 
+2017-05-07 14:25:34,800 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:25:35,000 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 14:25:35,043 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 14:25:36,004 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:25:37,448 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:25:37,544 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-07 14:25:37,578 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(3,1) 
+2017-05-07 14:25:37,609 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:25:38,197 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:25:38,313 INFO  [Log] Clicking on Webelement Btn_Login 
+2017-05-07 14:25:38,336 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(4,1) 
+2017-05-07 14:25:38,356 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:25:42,294 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:25:42,401 INFO  [Log] Selecting 4389 from dropdown 
+2017-05-07 14:25:42,459 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(5,1) 
+2017-05-07 14:26:26,296 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:26:27,366 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:26:27,488 INFO  [Log] Selecting 29 from dropdown 
+2017-05-07 14:26:27,540 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(6,1) 
+2017-05-07 14:26:27,624 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:26:28,636 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:26:28,729 INFO  [Log] Clicking on Webelement btn_save 
+2017-05-07 14:26:28,797 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(7,1) 
+2017-05-07 14:26:28,814 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 14:26:29,213 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:26:29,322 INFO  [Log] Wait for 10 seconds 
+2017-05-07 14:26:39,904 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:26:40,675 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 14:26:40,678 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 14:26:40,678 INFO  [Log] X 
+2017-05-07 14:26:40,678 INFO  [Log] X 
+2017-05-07 14:26:40,678 INFO  [Log] X 
+2017-05-07 14:26:40,678 INFO  [Log] X 
+2017-05-07 14:31:27,164 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 14:31:27,165 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:31:27,165 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:31:27,165 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 14:31:27,165 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:31:27,165 INFO  [Log] **************************************************************************************** 
+2017-05-07 14:31:27,172 INFO  [Log] Opening Browser 
+2017-05-07 14:31:40,023 INFO  [Log] Mozilla browser started 
+2017-05-07 14:31:40,242 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:31:40,769 INFO  [Log] Navigating to URL 
+2017-05-07 14:33:06,302 INFO  [Log] Capturing ScreenShot 
+2017-05-07 14:33:06,404 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 14:33:06,432 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 15:14:45,070 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 15:14:45,103 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:14:45,103 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:14:45,103 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 15:14:45,103 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:14:45,103 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:14:45,110 INFO  [Log] Opening Browser 
+2017-05-07 15:14:55,888 INFO  [Log] Chrome browser started 
+2017-05-07 15:15:06,143 INFO  [Log] Not able to open the Browser --- unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.21 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir4128_31806}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8ec784a0fa899bd6f68744f633806a 
+2017-05-07 15:15:16,176 ERROR [Log] Unable to execute the action:openBrowserPlease see the error message--null 
+2017-05-07 15:15:16,182 INFO  [Log] Navigating to URL 
+2017-05-07 15:15:26,265 INFO  [Log] Not able to navigate --- unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir4128_31806}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8ec784a0fa899bd6f68744f633806a 
+2017-05-07 15:15:36,431 ERROR [Log] Unable to execute the action:navigatePlease see the error message--null 
+2017-05-07 15:15:36,431 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 15:15:36,470 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 15:15:36,577 INFO  [Log] Class ActionKeywords | Method findElement | CSS is Null so Skiping Find Element with CSS 
+2017-05-07 15:15:36,577 INFO  [Log] Class ActionKeywords | Method findElement | id is Null so Skiping Find Element with id 
+2017-05-07 15:15:36,578 INFO  [Log] Class ActionKeywords | Method findElement | name is Null so Skiping Find Element with name 
+2017-05-07 15:15:36,578 INFO  [Log] Class ActionKeywords | Method findElement | className is Null so Skiping Find Element with className 
+2017-05-07 15:15:36,578 INFO  [Log] Class ActionKeywords | Method findElement |  unable to find the element with all the given property check object name specified in Excel or its given properties 
+2017-05-07 15:15:36,578 ERROR [Log] Not able to Enter text --- null 
+2017-05-07 15:15:46,681 ERROR [Log] Unable to execute the action:inputPlease see the error message--null 
+2017-05-07 15:15:47,191 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 15:15:47,193 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 15:15:47,193 INFO  [Log] X 
+2017-05-07 15:15:47,193 INFO  [Log] X 
+2017-05-07 15:15:47,193 INFO  [Log] X 
+2017-05-07 15:15:47,193 INFO  [Log] X 
+2017-05-07 15:15:47,196 INFO  [Log] Closing the browser 
+2017-05-07 15:15:57,209 ERROR [Log] Not able to Close the Browser --- unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.01 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir4128_31806}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8ec784a0fa899bd6f68744f633806a 
+2017-05-07 15:16:07,315 ERROR [Log] Unable to execute the TestCAse:TC_01Please see the error message--unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir4128_31806}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: cc8ec784a0fa899bd6f68744f633806a 
+2017-05-07 15:17:59,401 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 15:17:59,402 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:17:59,402 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:17:59,402 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 15:17:59,402 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:17:59,402 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:17:59,411 INFO  [Log] Opening Browser 
+2017-05-07 15:18:04,051 INFO  [Log] Chrome browser started 
+2017-05-07 15:18:14,275 INFO  [Log] Not able to open the Browser --- unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.21 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir340_12462}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d5be18fdf8d68a5136b5f00fed890e3 
+2017-05-07 15:18:24,321 ERROR [Log] Unable to execute the action:openBrowserPlease see the error message--null 
+2017-05-07 15:18:24,322 INFO  [Log] Navigating to URL 
+2017-05-07 15:18:34,369 INFO  [Log] Not able to navigate --- unknown error: cannot get automation extension
+from unknown error: page could not be found: chrome-extension://aapnijgdinlhnhlmodcfapnahmbfebeb/_generated_background_page.html
+  (Session info: chrome=58.0.3029.96)
+  (Driver info: chromedriver=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed),platform=Windows NT 6.1.7600 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'Ashish-PC', ip: '192.168.1.106', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.25.426923 (0390b88869384d6eb0d5d09729679f934aab9eed), userDataDir=C:\Users\Ashish\AppData\Local\Temp\scoped_dir340_12462}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=58.0.3029.96, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2d5be18fdf8d68a5136b5f00fed890e3 
+2017-05-07 15:18:44,473 ERROR [Log] Unable to execute the action:navigatePlease see the error message--null 
+2017-05-07 15:18:44,474 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 15:18:44,520 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 15:18:44,574 INFO  [Log] Class ActionKeywords | Method findElement | CSS is Null so Skiping Find Element with CSS 
+2017-05-07 15:18:44,575 INFO  [Log] Class ActionKeywords | Method findElement | id is Null so Skiping Find Element with id 
+2017-05-07 15:18:44,575 INFO  [Log] Class ActionKeywords | Method findElement | name is Null so Skiping Find Element with name 
+2017-05-07 15:18:44,575 INFO  [Log] Class ActionKeywords | Method findElement | className is Null so Skiping Find Element with className 
+2017-05-07 15:18:44,575 INFO  [Log] Class ActionKeywords | Method findElement |  unable to find the element with all the given property check object name specified in Excel or its given properties 
+2017-05-07 15:18:44,575 ERROR [Log] Not able to Enter text --- null 
+2017-05-07 15:18:52,942 ERROR [Log] Unable to execute the action:inputPlease see the error message--null 
+2017-05-07 15:19:48,557 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 15:19:48,558 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:19:48,558 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:19:48,558 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 15:19:48,558 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:19:48,558 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:19:48,566 INFO  [Log] Opening Browser 
+2017-05-07 15:19:59,076 INFO  [Log] Mozilla browser started 
+2017-05-07 15:19:59,433 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:19:59,793 INFO  [Log] Navigating to URL 
+2017-05-07 15:21:30,417 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:30,543 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 15:21:30,569 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 15:21:31,010 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:32,918 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:33,265 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-07 15:21:33,293 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(3,1) 
+2017-05-07 15:21:33,309 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:33,929 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:34,031 INFO  [Log] Clicking on Webelement Btn_Login 
+2017-05-07 15:21:34,055 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(4,1) 
+2017-05-07 15:21:34,072 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:46,570 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:46,660 INFO  [Log] Selecting 4389 from dropdown 
+2017-05-07 15:21:46,722 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(5,1) 
+2017-05-07 15:21:52,283 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:52,979 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:53,116 INFO  [Log] Selecting 29 from dropdown 
+2017-05-07 15:21:53,145 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(6,1) 
+2017-05-07 15:21:53,207 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:54,147 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:54,250 INFO  [Log] Clicking on Webelement btn_save 
+2017-05-07 15:21:54,278 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(7,1) 
+2017-05-07 15:21:54,300 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:21:54,661 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:21:54,765 INFO  [Log] Wait for 10 seconds 
+2017-05-07 15:22:07,344 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:22:07,799 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 15:22:07,801 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 15:22:07,801 INFO  [Log] X 
+2017-05-07 15:22:07,801 INFO  [Log] X 
+2017-05-07 15:22:07,801 INFO  [Log] X 
+2017-05-07 15:22:07,801 INFO  [Log] X 
+2017-05-07 15:40:52,532 INFO  [Log] Method Name: startRecording, Description: Video Recording Started 
+2017-05-07 15:40:52,554 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:40:52,554 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:40:52,554 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-07 15:40:52,555 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:40:52,555 INFO  [Log] **************************************************************************************** 
+2017-05-07 15:40:52,616 INFO  [Log] Opening Browser 
+2017-05-07 15:41:01,662 INFO  [Log] Mozilla browser started 
+2017-05-07 15:41:02,645 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:41:03,297 INFO  [Log] Navigating to URL 
+2017-05-07 15:43:37,852 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:43:37,956 INFO  [Log] Entering the text in txtbx_Username 
+2017-05-07 15:43:37,980 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(2,1) 
+2017-05-07 15:43:38,490 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:43:40,371 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:43:40,578 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-07 15:43:40,700 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(3,1) 
+2017-05-07 15:43:40,716 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:43:41,321 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:43:41,444 INFO  [Log] Clicking on Webelement Btn_Login 
+2017-05-07 15:43:41,479 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(4,1) 
+2017-05-07 15:43:41,507 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:43:45,083 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:43:45,169 INFO  [Log] Selecting 4389 from dropdown 
+2017-05-07 15:43:45,205 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(5,1) 
+2017-05-07 15:43:59,124 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:43:59,836 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:43:59,929 INFO  [Log] Selecting 29 from dropdown 
+2017-05-07 15:43:59,953 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(6,1) 
+2017-05-07 15:44:00,064 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:44:00,649 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:44:00,733 INFO  [Log] Clicking on Webelement btn_save 
+2017-05-07 15:44:00,757 INFO  [Log] Class ExcelUtils_Updated | Method getCellNumber | The specified text is present at cell=(7,1) 
+2017-05-07 15:44:00,781 INFO  [Log] Class ActionKeywords | Method findElement | Able to find the element with xpath 
+2017-05-07 15:44:01,199 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:44:01,369 INFO  [Log] Wait for 10 seconds 
+2017-05-07 15:44:14,345 INFO  [Log] Capturing ScreenShot 
+2017-05-07 15:44:14,883 INFO  [Log] Method Name: StopRecording, Description: Video Recording Stopped 
+2017-05-07 15:44:14,884 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-07 15:44:14,884 INFO  [Log] X 
+2017-05-07 15:44:14,884 INFO  [Log] X 
+2017-05-07 15:44:14,884 INFO  [Log] X 
+2017-05-07 15:44:14,884 INFO  [Log] X 

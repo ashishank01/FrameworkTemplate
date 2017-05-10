@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="210207" started-at="2017-05-07T10:10:50Z" finished-at="2017-05-07T10:14:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="210207" started-at="2017-05-07T10:10:50Z" finished-at="2017-05-07T10:14:20Z">
+      <class name="executionEngine.DriverScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:executionEngine.DriverScript@5cb137]" name="beforeMethod" is-config="true" duration-ms="1823" started-at="2017-05-07T15:40:50Z" finished-at="2017-05-07T15:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:executionEngine.DriverScript@5cb137]" name="Test" duration-ms="208343" started-at="2017-05-07T15:40:51Z" finished-at="2017-05-07T15:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- executionEngine.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

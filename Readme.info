@@ -1,0 +1,25 @@
+1. Install Java JDK 1.8 (latest version) and set the JAVA_HOME
+
+2. Install the latest eclipse version
+
+3. Import the existing project/ create new Java Project
+
+4. Add following Dependencies in the Project:
+testng-6.9.9.jar
+Selenium 2.53 jars
+Apache-poi (For Excel Connectivity)
+Monte Repack (For Video Recording)
+gson-2.3.1.jar (Already added in selenium jars)
+guava-19.0.jar (Already added in selenium jars)
+httpclient-4.5.1.jar (Already added in selenium jars)
+javax.mail.jar (To send mail)
+extentreports-2.40.2.jar (For Extent Report)
+jersey-client-2.9.jar
+my-sql-connector-java.jar
+xml-apis-2.0.2.jar
+selenium-htmlunit-driver-2.52.0.jar
+freemarker-2.3.23.jar
+
+5. Go to TestNG > Convert to TestNG..... to generate testng.xml file
+
+6. Configure the testng.xml file to execute the testcases.
